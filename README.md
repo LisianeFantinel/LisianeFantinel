@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo (a) 
 
-- 💼 Atualmente atuo como analista de Recursos Humanos, porém estou fazendo uma migração de carreira para area de desenvolvimento. 
+- 💼 Atualmente atuo como analista de redes.
 
 - 📚 No momento estou no segundo semestre da faculdade ads, e fazendo cursos para front-end e banco de dados... 
 
